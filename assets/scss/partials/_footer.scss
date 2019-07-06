@@ -1,0 +1,54 @@
+
+/*==============================
+=            Footer            =
+==============================*/
+
+.site-footer {
+	clear: both;
+	overflow: hidden;
+	padding: 10px 0;
+	text-align:center;
+	
+	p {
+		font-size:15px;
+		font-size:1.5rem;
+		margin-bottom: 0;
+	}
+	.designed-by {
+		float:none;
+		@media only screen and (min-width: 1160px) {
+			float:left;
+			margin-left: 0;
+			
+		}
+		@media only screen and (min-width: 1300px) {
+			margin-left: 0;
+		}
+	}
+	.copyright-privacy{
+		max-width:none;
+		margin:0 auto 3rem auto;
+		@media only screen and (min-width: 1160px) {
+			max-width:500px;
+		}
+		span{
+			display: block;
+    		text-indent: -999rem;
+			@media only screen and (min-width: 1160px) {
+				display: inline;
+    		}
+		}
+	}
+}
+
+/*----------  Widgets  ----------*/
+
+.footer-widgets {
+	clear: both;
+	overflow: hidden;
+	padding: 40px 10px;
+
+	.widget {
+		margin-bottom: 40px;
+	}
+}

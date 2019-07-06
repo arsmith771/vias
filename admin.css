@@ -1,0 +1,60 @@
+#genesis_inpost_seo_box,
+#genesis_inpost_layout_box,
+#genesis_inpost_scripts_box,
+.editor-block-list__layout,
+#dashboard_quick_press,
+#dashboard_primary{
+	display: none;
+}
+#wpcf-group-home-page-intro,
+#wpcf-group-header-image-intro-text,
+#wpcf-group-header-image,
+#wpcf-group-header-image-2,
+#wpcf-group-contact-intro{
+	outline:3px dashed red;
+	padding:10px;
+	margin-bottom: 20px;
+}
+#wpcf-group-row-beneath-square-photos-projects,
+#wpcf-group-second-row,
+#wpcf-group-projects,
+#wpcf-group-first-row,
+#wpcf-group-bottom-row{
+	outline:3px dashed blue;
+	padding:10px;
+	margin-bottom: 20px;
+}
+#wpcf-group-bottom-photo-link-case-studies,
+#wpcf-group-third-row,
+#wpcf-group-bottom-text,
+#wpcf-group-second-row-2{
+	outline:3px dashed lime;
+	padding:10px;
+	margin-bottom: 20px;
+}
+#wpcf-group-bottom-text-contact-us-etc,
+#wpcf-group-fourth-row,
+#wpcf-group-third-row-2{
+	outline:3px dashed yellow;
+	padding:10px;
+	margin-bottom: 20px;
+}
+
+#wpcf-group-fifth-row,
+#wpcf-group-fourth-row-2{
+	outline:3px dashed fuchsia;
+	padding:10px;
+	margin-bottom: 20px;
+}
+#wpcf-group-sixth-row,
+#wpcf-group-bottom-row-2{
+	outline:3px dashed aqua;
+	padding:10px;
+	margin-bottom: 20px;
+}
+#wpcf-group-footer-content{
+	outline:3px dashed orange;
+	padding:10px;
+	margin-bottom: 20px;
+}
+
